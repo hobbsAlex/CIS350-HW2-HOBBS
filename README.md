@@ -7,4 +7,5 @@
 
 ## Technical Background
 I have programming experience with java, C, python, and Visual Basic.
+
 [Big Chungus](https://i.kym-cdn.com/entries/icons/facebook/000/031/500/cover4.jpg)
